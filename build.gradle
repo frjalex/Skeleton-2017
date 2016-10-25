@@ -10,6 +10,7 @@ apply plugin: 'checkstyle'
 
 sourceCompatibility = 1.8
 def robotClass = 'org.usfirst.frc.team4373.Robot'
+def testClass = 'com.example.tests.TestingMain'
 
 repositories {
     mavenCentral()
