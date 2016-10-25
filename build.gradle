@@ -39,7 +39,7 @@ jar {
         )
     }
 }
-task test << {
+task testRobot << {
     println "Executing tests."
     
 jar {
